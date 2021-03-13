@@ -1,7 +1,7 @@
 # ReactJS Exercise-Ex01
 
 ## Project description
-<p align="left">A simple RactJS Project that i did some time ago, where i use stateless and statefull components to do the tasks with the strings that the users write on the input HTML element ;)</p> 
+<p align="left">A simple RactJS Project that i did some time ago, where i use stateless and stateful components to do the tasks with the strings that the users write on the input HTML element ;)</p> 
 
 
 
