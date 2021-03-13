@@ -5,4 +5,4 @@
 
 
 
-<img src="https://media.giphy.com/media/azc4yG7YW0yWmjLwT3/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/azc4yG7YW0yWmjLwT3/giphy.gif" />
